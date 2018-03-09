@@ -8,8 +8,8 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '5.1.5'
 gem 'mysql2', '~> 0.3.21'
-gem 'lardawge-rfm', '1.4.1.2', require: 'rfm'
-gem 'fm_store', git: 'https://github.com/mech/fm_store.git'
+gem 'actionmailer'
+gem 'filemaker', git: 'https://github.com/mech/filemaker-ruby.git'
 gem 'awesome_print'
 group :development do
   gem 'listen'
