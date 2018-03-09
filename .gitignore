@@ -6,10 +6,32 @@
 
 # Ignore bundler config.
 /.bundle
-
-# Ignore the default SQLite database.
 /db/*.sqlite3
-/db/*.sqlite3-journal
+/log/*.log*
+/tmp
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+*.swo
+*.swp
+*.vi
+.idea
+.redcar
+.project
+.tmproj
+.esproj
+nbproject
+*.sass-cache
+node_modules
+npm-debug.log
+
+.yardoc
+.yardopts
+
+coverage
+
+tags
 
 # Ignore all logfiles and tempfiles.
 /log/*

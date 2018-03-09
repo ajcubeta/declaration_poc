@@ -3,7 +3,7 @@
 A sample demo for Declaration Form with ActiveRecord validation.
 
 ## Version
-* I'm using 1.9.3-p551 to replicate the current POC set-up
+* I'm using ruby-2.3.0 that requires be to use on railties.
 
 ## FM and Mysql set-up
 * I use local FM (filemaker) settings to connect to our in-house server.
